@@ -1,0 +1,1 @@
+* The image features are stored here as `embeddings.npy`.
