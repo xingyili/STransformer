@@ -27,7 +27,7 @@ git clone https://github.com/xingyili/STransformer.git
 cd STransformer
 ```
 
-Step 2: Extract image features by BYOL (replace with your own data path)： 
+Step 2: Extract image features by BYOL (replace with your own data path)：
 
 ```
 cd ./BYOL
