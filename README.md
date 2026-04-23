@@ -18,7 +18,7 @@
 
 ### How to run
 
-If you want to manually setup SpatialModal, we recommend you to use [Anaconda](https://docs.anaconda.com/free/anaconda/install/) to build the runtime environment.
+If you want to manually setup STransformer, we recommend you to use [Anaconda](https://docs.anaconda.com/free/anaconda/install/) to build the runtime environment.
 
 Step 1: Clone this repository from Github:
 
